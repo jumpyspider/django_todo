@@ -26,7 +26,8 @@ SECRET_KEY = '2h!_-owea0d=7%g670=e%72zlv5s_x5-5met#)npq0h()p*67v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-todo-jumpyspider.c9users.io']
+ALLOWED_HOSTS = ['django-todo-jumpyspider.c9users.io',
+                 'jumpyspider-django-todo.herokuapp.com']
 
 
 # Application definition
